@@ -3,5 +3,6 @@
 ## Author: EmperorVal
 ## Version: 0.0.1a
 
-main.lua
+valMagePack.lua
 valBuffTracker.lua
+main.lua
