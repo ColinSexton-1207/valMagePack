@@ -1,8 +1,12 @@
 ## Interface: 110007
 ## Title: valMagePack
+## Notes: Basically a more robust version of my WA - Mage made easy!
 ## Author: EmperorVal
-## Version: 0.0.1a
+## Version: 0.0.2a
 
-valMagePack.lua
-valBuffTracker.lua
-valArcane\valArcaneCharges.lua
+Core/Core.lua
+Core/Events.lua
+Core/UI.lua
+Core/Utils.lua
+Modules/Arcane.lua
+Modules/Forst.lua

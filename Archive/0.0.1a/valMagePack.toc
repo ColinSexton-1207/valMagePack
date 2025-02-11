@@ -1,0 +1,8 @@
+## Interface: 110007
+## Title: valMagePack
+## Author: EmperorVal
+## Version: 0.0.1a
+
+valMagePack.lua
+valBuffTracker.lua
+valArcane\valArcaneCharges.lua
